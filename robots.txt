@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /phpmyadmin/
+Disallow: ./404.html
+Disallow: /assets/
+Disallow: /cn/assets/
+Disallow: /zh/assets/
